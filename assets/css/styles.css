@@ -1,0 +1,41 @@
+div#popular.row{
+  text-align:center;
+  font-size:30px;
+  border:1px solid;
+  border-color:rgb(196,210,218);
+  padding:10px;
+}
+
+@media (max-width:1199px) {
+  div#categories.container{
+    max-width:400px;
+    margin-left:600px;
+  }
+}
+
+div#topcat{
+  margin-top:200px;
+  max-width:400px;
+}
+
+div#citiesdiv{
+  text-align:right;
+  margin-top:70px;
+}
+
+div#divisionsdiv{
+  text-align:right;
+}
+
+div#coldivisions.col-md-5{
+  padding:30px;
+}
+
+
+.brandlogo
+{
+  height: 32px;
+  width: auto;
+  margin-top: -7px;
+}
+
